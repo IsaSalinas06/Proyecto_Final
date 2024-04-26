@@ -1,0 +1,53 @@
+.caja-1
+{
+	position: relative;
+	left: 255px;
+	top: 500px;
+}
+.caja-2
+{
+	position: relative;
+	left: 492px;
+	top: 500PX;
+
+}
+.caja-3
+{
+	position: relative;
+	background-color: brown;
+	left: -215px;
+}
+.caja-4
+{
+position: relative;
+background-color: red;	
+
+left: 500px;
+}
+.caja-5
+{
+	position: relative;
+	background-color: blue;
+	left: -105px;
+
+}
+.caja-6
+{
+	position: relative;
+	background-color: beige;
+	left: 100px;
+	top: 500px;
+}
+.contenedor
+{
+	position: relative;
+	display: flex;
+	flex-wrap: wrap;
+	top: 150px;
+}
+.cabeceras
+{
+	position: fixed;
+	width: 100%;
+	top: 120px;
+}
